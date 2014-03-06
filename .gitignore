@@ -7,3 +7,9 @@ target-ide/
 myapp-init/
 myapp-final/
 README-final.md
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear

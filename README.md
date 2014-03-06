@@ -1,9 +1,10 @@
-RRRADDD! Ridiculously Rapid Domain-Driven (and RESTful) Apps with Apache Isis
+Isis Tutorial 1.4.0
 ================
 
-For RRRADDD! conference session demo, against Isis v1.3.1.
+Originally developed for RRRADDD! conference session, v1.3.1, 
+ported to Isis v1.4.0
 
-*   [Slides (pptx)](https://github.com/danhaywood/rrraddd-isis-131/raw/master/pptx/RRRADDD.pptx)
+*   [Slides (pptx)](https://github.com/danhaywood/isis-tutorial-140/raw/master/pptx/RRRADDD.pptx)
 
 See also:
 
@@ -106,7 +107,7 @@ mvn jetty:run
        - `integration.tests.smoke.SimpleObjectsTest_listAll_and_create`
        - `integration.specs.simple.SimpleObjectSpec_listAllAndCreate.feature`
    -  generated report, eg
-        - `file:///C:/GITHUB/danhaywood/rrraddd-isis-131/myapp/integtests/target/cucumber-html-report/index.html`
+        - `file:///C:/GITHUB/danhaywood/isis-tutorial-140/myapp/integtests/target/cucumber-html-report/index.html`
     - change test in IDE, re-run (in Maven)   
 
 

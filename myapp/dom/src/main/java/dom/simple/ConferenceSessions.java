@@ -59,7 +59,6 @@ public class ConferenceSessions extends AbstractFactoryAndRepository {
     // Create (action)
     // //////////////////////////////////////
     
-    @Bookmarkable
     @MemberOrder(sequence = "2")
     public ConferenceSession create(
             final @Named("Name") String name,

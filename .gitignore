@@ -1,5 +1,6 @@
 .settings/
 .classpath
+*.log
 .project
 target/
 target-ide/

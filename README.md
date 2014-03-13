@@ -2,7 +2,7 @@ Isis Tutorial 1.4.0
 ================
 
 Originally developed for RRRADDD! conference session, v1.3.1, 
-ported to Isis v1.4.0
+ported to Isis Core v1.4.0 (with 1.4.1 patch release)
 
 *   [Slides (pptx)](https://github.com/danhaywood/isis-tutorial-140/raw/master/pptx/RRRADDD.pptx)
 
